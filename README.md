@@ -122,13 +122,3 @@ O desenvolvimento do projeto foi baseado em:
 ## Equipe
 
 Projeto desenvolvido para fins acadêmicos, com foco na aplicação de conceitos de experiência do usuário, design de interfaces e inteligência artificial aplicada à saúde.
-
----
-
-## Status do Projeto
-
-✅ Protótipo desenvolvido
-✅ Fluxos definidos
-✅ Interface projetada
-✅ IA conceitual validada
-🚧 Em evolução para futuras melhorias
